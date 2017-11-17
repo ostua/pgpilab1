@@ -1,4 +1,4 @@
-//comentario de rafromsan
+//esto es un comentario inutil
 int calcfact(int num)
 {
   if (num <= 1) return 1;

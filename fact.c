@@ -1,6 +1,7 @@
+//comentario aun mas inutil
 #include <stdio.h>
 #include <stdlib.h>
-//Segundo comentario de prueba por antnundom
+
 #include "calcfact.h"
 int main(int argc, char **argv)
 {
@@ -10,6 +11,6 @@ int main(int argc, char **argv)
 	printf("uso: %s <numero>\n", argv[0]);
         exit(-1);
   }
-  num=atoi(argv[1]);
-  printf ("resultado: el factorial de [%d] es [%d].\n", num, calcfact(numero));
+  numero=atoi(argv[1]);
+  printf ("resultado: el factorial de [%d] es [%d].\n", numero, calcfact(numero));
 }
