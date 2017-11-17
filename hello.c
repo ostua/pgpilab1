@@ -2,5 +2,6 @@
 //comentario
 int main()
 {
-  printf("Hola mundo\n");
+ 	printf("alvmargar4");
+	 printf("hello world\n");
 }
