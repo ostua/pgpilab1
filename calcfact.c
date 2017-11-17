@@ -1,4 +1,11 @@
-///esto es un comentario inutil
+
+ dancaschi
+
+// Función que calcula el factorial de un número num
+// y  ademas...
+//comentario de rafromsan
+
+ master
 int calcfact(int num)
 {
   if (num <= 1) return 1;
