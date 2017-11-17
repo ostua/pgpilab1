@@ -1,4 +1,4 @@
-
+// Función que calcula el factorial de un número num
 int calcfact(int num)
 {
   if (num <= 1) return 1;
