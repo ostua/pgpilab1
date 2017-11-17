@@ -12,8 +12,6 @@ int main(int argc, char **argv)
 	printf("uso: %s <numero>\n", argv[0]);
         exit(-1);
   }
-  numTemp=atoi(argv[1]);
-  printf ("resultado: el factorial de [%d] es [%d].\n", numTemp, calcfact(numTemp));
-
-
+  numero=atoi(argv[1]);
+  printf ("resultado: el factorial de [%d] es [%d].\n", numero, calcfact(numero));
 }
