@@ -1,3 +1,7 @@
+ dancaschi
+Practica 7 pgpi
+Autor: Daniel Castro Chincho
+
 Plantilla vacía de *Readme*
 
 # Introducción
@@ -10,6 +14,7 @@ Plantilla vacía de *Readme*
 
 # Funcionamiento del código
  Algo cortito...
+ master
 
 [DOCUMENTACION DEL PROYECTO]
 

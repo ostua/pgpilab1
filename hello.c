@@ -1,6 +1,6 @@
-
+///otro comentario inutil
 #include <stdio.h>
-//Comentario de prueba de antnundom
+
 int main()
 {
   printf("Hola PGPI\n\n\n");
@@ -11,3 +11,4 @@ int main()
 
 /* Modificación alvmargar4 */
 //modificado a posteriori por juamonzam
+
