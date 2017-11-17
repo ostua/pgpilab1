@@ -1,3 +1,5 @@
+emiferale
+//commmmentario
 
  dancaschi
 
@@ -5,11 +7,13 @@
 // y  ademas...
 //comentario de rafromsan
 
-//Hola mundo
 
+emiferale
+master
 
  master
->>>>>>> d8cd75f3e22826a152bca45838fb34c3e8359a42
+master
+>>>>>>> 74db2b28d188779de020401c2761d5f9c1546321
 int calcfact(int num)
 {
   if (num <= 1) return 1;

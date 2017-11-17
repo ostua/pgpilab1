@@ -1,6 +1,13 @@
+emiferale
+emiferale
+emiferale
+practica 7 pgpilab1
+Autor: Emilio José Ferrera Alé
+
  dancaschi
 Practica 7 pgpi
 Autor: Daniel Castro Chincho
+master
 
 Plantilla vacía de *Readme*
 
@@ -14,9 +21,17 @@ Plantilla vacía de *Readme*
 
 # Funcionamiento del código
  Algo cortito...
+emiferale
+master
+
  master
+master
 
 [DOCUMENTACION DEL PROYECTO]
 
 autor: juamonzam
+emiferale
+master
 
+
+master
