@@ -15,4 +15,5 @@ int main(int argc, char **argv)
   numTemp=atoi(argv[1]);
   printf ("resultado: el factorial de [%d] es [%d].\n", numTemp, calcfact(numTemp));
 
+
 }
