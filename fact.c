@@ -1,9 +1,18 @@
+///comentario aun mas inutil
 #include <stdio.h>
 #include <stdlib.h>
+emiferale
 emiferale
 //ccomentario
 
 //Segundo comentario de prueba por alvmargar4
+master
+
+ dancaschi
+
+
+//Segundo comentario de prueba por alvmargar4
+ master
 master
 #include "calcfact.h"
 //comentario de prueba en fact.c
