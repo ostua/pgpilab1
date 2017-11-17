@@ -1,3 +1,5 @@
+emiferale
+//commmmentario
 
  dancaschi
 
@@ -5,7 +7,11 @@
 // y  ademas...
 //comentario de rafromsan
 
+emiferale
+master
+
  master
+master
 int calcfact(int num)
 {
   if (num <= 1) return 1;

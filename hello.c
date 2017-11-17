@@ -1,6 +1,11 @@
+emiferale
+#include <stdio.h>
+//comentario
+
 ///otro comentario inutil
 #include <stdio.h>
 
+master
 int main()
 {
   printf("Hola PGPI\n\n\n");
