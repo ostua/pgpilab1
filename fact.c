@@ -1,4 +1,4 @@
-//comentario aun mas inutil
+///comentario aun mas inutil
 #include <stdio.h>
 #include <stdlib.h>
 

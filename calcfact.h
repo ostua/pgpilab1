@@ -1,3 +1,3 @@
-//comentario inutil
+///comentario inutil
 int calcfact(int num);
 
