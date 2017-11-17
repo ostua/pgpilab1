@@ -10,3 +10,8 @@ Plantilla vacía de *Readme*
 
 # Funcionamiento del código
  Algo cortito...
+
+[DOCUMENTACION DEL PROYECTO]
+
+autor: juamonzam
+
