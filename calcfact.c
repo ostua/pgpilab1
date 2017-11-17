@@ -1,9 +1,8 @@
 emiferale
 //commmmentario
 
-//Comentario realizado para hacer algun cambio 01
-
-
+// Función que calcula el factorial de un número num
+// y  ademas...
 //comentario de rafromsan
 
 master
