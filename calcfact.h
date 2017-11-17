@@ -1,3 +1,3 @@
-
-int calcfact(int num);
+//Comentario sobre calcfact.h
+int calcfact(int numero);
 
