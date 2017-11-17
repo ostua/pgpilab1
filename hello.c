@@ -8,6 +8,8 @@ emiferale
 master
 int main()
 {
+  printf("Hola mundo\n");
+  printf("Adios mundo cruel\n");
   printf("Hola PGPI\n\n\n");
  	printf("alvmargar4");
   printf("hello world\n");
