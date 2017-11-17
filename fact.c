@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
-//Segundo comentario de prueba por antnundom
+//Segundo comentario de prueba por alvmargar4
 #include "calcfact.h"
 int main(int argc, char **argv)
 {
